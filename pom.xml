@@ -8,6 +8,7 @@
   <modules>
     <module>study01-jsp-review</module>
     <module>study02-mvchello</module>
+    <module>springmvc-annotation</module>
   </modules>
   <packaging>pom</packaging>
 

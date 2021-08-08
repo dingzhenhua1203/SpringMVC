@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="study01-jsp-review" />
         <module name="study02-mvchello" />
+        <module name="springmvc-annotation" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

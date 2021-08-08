@@ -15,8 +15,6 @@
         <load-on-startup>1</load-on-startup>
     </servlet>
 
-
-
     <servlet-mapping>
         <servlet-name>dispatcherServlet</servlet-name>
         <!--/ 代表匹配所有请求，不包含.jsp-->
